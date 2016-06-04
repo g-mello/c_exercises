@@ -1,3 +1,3 @@
 # c_exercises
 
- 8 list of exercises in C. 
+ 8 lists of exercises in C. 
